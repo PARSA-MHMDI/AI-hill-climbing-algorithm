@@ -42,3 +42,5 @@ For this project Qatar and Djibouti cites loaction have been used. Qater data is
     - Hill climbing google colab code
 4. **hill_climbing.py**
     - Hill climbing python code
+    
+#### Unfortunately **"Project.pdf"** and **"Report.docx"** are only available in **"Persian"**. If you seriously need a translation, contact me.
