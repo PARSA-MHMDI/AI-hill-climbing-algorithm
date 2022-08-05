@@ -37,7 +37,7 @@ For this project Qatar and Djibouti cites loaction have been used. Qater data is
 1. **Project.pdf**
     - In this file, all details about the project have been explained.
 2. **Report.pdf**
-    - Report file for the project. All results of implemented python codes with Plots are visible here.
+    - Report file for the project. All results of implemented python codes with plots are visible here.
 3. **Hill_Climbing.ipynb**
     - Hill climbing google colab code
 4. **hill_climbing.py**
